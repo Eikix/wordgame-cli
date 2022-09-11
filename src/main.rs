@@ -25,7 +25,7 @@ async fn main() {
             score += 1;
             println!("✔ you made it! 💅 | time to write: {:#?}s | score = {:#?}", time_elapsed, score);
         } else {
-            println!("❌ oh no...you failed 🤕, your average writing time: {:#?}s | exiting now...", recorded_times.iter().sum::<u64>() / recorded_times.len() as u64 );
+            println!("❌ oh no...you failed 🤕 | score: {:#?} | average answer time: {:#?}s | exiting now...", score, recorded_times.iter().sum::<u64>() / recorded_times.len() as u64 );
             break;
         }
         round += 1;
