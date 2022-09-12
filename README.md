@@ -17,7 +17,7 @@ And add to the alias list:
 ```bash
 # .zshrc
 
-alias wordgame="~/<YOUR_PATH_TO_THE_REPO>/typeword-game/target/release/typeword-game"
+alias wordgame="~/<YOUR_PATH_TO_THE_REPO>/wordgame-cli/target/release/typeword-game"
 ```
 
 - Restart your terminal
