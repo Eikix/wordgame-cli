@@ -1,6 +1,8 @@
 ## wordgame-cli
 ### Type words as fast as you can in your terminal
 
+![wordgame-cli](https://user-images.githubusercontent.com/66871571/189606264-daced8b1-866f-44f7-be2b-00dda12f5ad9.gif)
+
 #### How to setup?
 
 ##### Build the project and run the binary
