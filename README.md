@@ -22,5 +22,5 @@ alias wordgame="~/<YOUR_PATH_TO_THE_REPO>/typeword-game/target/release/typeword-
 
 - Restart your terminal
 
-- Type wordgame in your terminal. That's it, enjoy!
+- Type wordgame from anywhere in your terminal. That's it, enjoy!
 
